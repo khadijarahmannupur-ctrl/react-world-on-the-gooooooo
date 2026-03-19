@@ -1,0 +1,22 @@
+.country{
+    /* margin: 20px; */
+    padding: 15px;
+    border: 3px solid sienna;
+    border-radius: 20px;
+}
+.img{
+    height: 27vh;
+    width: 54vh;
+    margin: 0 auto;
+}
+
+.country-visited{
+    background-color:wheat;
+}
+.text-style{
+    color: black;
+}
+.btn-style{
+    background-color:brown;
+    color: white;
+}
